@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body {
+  font-family: "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+.header h1 {
+  text-align: center;
+}
+
+.main .links {
+  text-align: center;
+}
+
+.main .links .link {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0 10px;
+}
+
+.main .links .link a {
+  display: inline-block;
+  letter-spacing: 1px;
+}
