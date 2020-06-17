@@ -22,3 +22,18 @@ body {
   display: inline-block;
   letter-spacing: 1px;
 }
+
+.main .work {
+  display: flex;
+  margin: 50px auto;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main .work .works {
+  margin-top: 0px;
+}
+
+.main .work .works .item {
+  margin-bottom: 10px;
+}
